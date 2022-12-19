@@ -1,0 +1,5 @@
+# LGM-TASK-3
+I'm a Let's Grow More Intern who just completed Task 3 of my Web Development Internship.
+INTERMEDIATE LEVEL TASK
+
+CREATE A REGISTRATION FORM WHOSE DATA DISPLAY IN SAME PAGE  USING HTML, CSS & JS OR REACT JS
